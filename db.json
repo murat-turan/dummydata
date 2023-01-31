@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "packageName": "Package01", 
+      "packageVersion" : "1.1.5", 
+      "url": "/files/package_repo/Package01.msi"
+    },
+    {
+      "id": 2,
+      "packageName": "Package02", 
+      "packageVersion" : "1.1.5", 
+      "url": "/files/package_repo/Package02.msi"
+    },
+    {
+      "id": 3,
+      "packageName": "Package03", 
+      "packageVersion" : "1.1.5", 
+      "url": "/files/package_repo/Package03.msi"
+    },
+    {
+      "id": 4,
+      "packageName": "Package04", 
+      "packageVersion" : "1.1.5", 
+      "url": "/files/package_repo/Package04.msi"
+    },
+    {
+      "id": 5,
+      "packageName": "Package05", 
+      "packageVersion" : "1.1.5", 
+      "url": "/files/package_repo/Package05.msi"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
